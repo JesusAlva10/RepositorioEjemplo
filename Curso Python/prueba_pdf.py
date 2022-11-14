@@ -1,5 +1,5 @@
 class Prueba_pdf:
     
     
-    def funcionX():
+    def __init__(self) -> None:
         print('Hola mundo')
